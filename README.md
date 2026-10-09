@@ -1,6 +1,5 @@
 # Assistente de Percepção Ambiental com Retenção Zero de Dados
 
-> **Trabalho de Conclusão de Curso (TCC)**  
 > **Tema:** ASSISTENTE DE PERCEPÇÃO AMBIENTAL BASEADO EM INTELIGÊNCIA ARTIFICIAL PARA PESSOAS COM DEFICIÊNCIA VISUAL: UMA ARQUITETURA WEB DE RETENÇÃO ZERO DE DADOS
 
 ---
@@ -94,9 +93,3 @@ npm test
 ```
 
 ---
-
-## 📑 Documentação do TCC
-
-A proposta oficial completa, fundamentação teórica, justificativa, estado da arte, cronograma de 10 meses e metodologia acadêmica podem ser consultadas em:
-
-👉 [`docs/TCC_PROPOSAL.md`](file:///home/cabral/.gemini/antigravity/scratch/tcc-assistente-percepcao-ambiental/docs/TCC_PROPOSAL.md)
