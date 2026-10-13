@@ -57,27 +57,22 @@ A instanciação das classes dos provedores de Inteligência Artificial segue ri
 
 ### Passos
 
-1. Entre no diretório do projeto:
-```bash
-cd /home/cabral/.gemini/antigravity/scratch/tcc-assistente-percepcao-ambiental
-```
-
-2. Instale as dependências (sem dependências pesadas externas):
+1. Instale as dependências (sem dependências pesadas externas):
 ```bash
 npm install
 ```
 
-3. Copie as variáveis de ambiente:
+2. Copie as variáveis de ambiente:
 ```bash
 cp .env.example .env
 ```
 
-4. Execute o servidor em modo de desenvolvimento ou produção:
+3. Execute o servidor em modo de desenvolvimento ou produção:
 ```bash
 npm start
 ```
 
-5. Acesse no navegador:
+4. Acesse no navegador:
 ```text
 http://localhost:3000
 ```
